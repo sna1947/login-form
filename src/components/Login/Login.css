@@ -1,0 +1,56 @@
+.login-form {
+    display: flex;
+    flex-direction: column;
+
+    /* background-color: rgb(164, 105, 105); */
+    margin-top: 50px;
+    width: 300px;
+    border: 2px solid royalblue;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+.container {
+    padding: 10px;
+
+    background-color: rgb(183, 247, 192);
+}
+
+.formAriya {
+    align-items: center;
+    justify-content: center;
+}
+
+.login {
+    background-color: rgb(18, 4, 95);
+    color: cyan;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+.inpuNm {
+    margin: 5px;
+    border-radius: 7px;
+}
+
+.inpuEml {
+    margin: 5px;
+    border-radius: 7px;
+}
+
+.inpuPss {
+    margin: 5px;
+    border-radius: 7px;
+
+}
+
+
+.buku {
+    color: rgb(215, 249, 22);
+    background-color: rgb(20, 97, 6);
+    padding: 30px;
+    /* text-align: center; */
+    /* text-decoration: none; */
+}
